@@ -14,7 +14,9 @@ In their analysis, Northwind Traders wants to look closely at sales trends, how 
 
 ## Problem Statement
 o	What makes customers keep coming back, and how can Northwind Traders use this to get more loyal customers?
+
 o	Are there certain products that are selling faster than others, and how can Northwind Traders make sure they always have enough of these in stock?
+
 o	Do different types of customers buy different things, and how can Northwind Traders use this information to offer products that people want?
 
 ## Source
