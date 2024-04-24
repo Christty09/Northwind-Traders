@@ -37,7 +37,7 @@ o	Do different types of customers buy different things, and how can Northwind Tr
 
 The model i s a star schema, there are 5-dimension tables and 1 fact table with a many-to-one relationship
 
-![](modell.jpg)
+![](model1.jpg)
 
 
 ## Visualization
