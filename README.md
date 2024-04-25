@@ -45,7 +45,7 @@ The report comprises of 2 pages:
 * Customer Behaviour
 * Product Performance
 
-You can interact with the report [here](C:\Users\user\Documents\PowerBI\myproject2.pbix)
+You can interact with the report [here](C:\Users\user\Documents\PowerBI)
 
 ##Analysis
 
