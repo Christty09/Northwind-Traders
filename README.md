@@ -80,23 +80,14 @@ Product Performance:
 
 ![](myproject3.jpg)
     
-This shows how well the products are performing, and which may need improvement or adjustments to drive better results
+This indicates how well the products are doing and gives us insight into areas that might need improvement or adjustments to get better results.
 
+ 
 
-
-
-
-   
-
-   
-
- Recommendations And Conclusion
+## Conclusion and Recommendations 
 
 Northwind traders have recorded a very low demand for certain products, such as chocolate, Louisiana Hot Spiced Okro, and Mishi Kobe Niku. It is important to figure out how to sell more of these and reduce their current stock level. Meanwhile, there's a need to increase stock of beverages, dairy product, meat & poultry and confections to meet customer's demand.
 
-To sell more in the second part of the year, we need to start doing more sales promotions and marketing.
+The drop in sales in May isn't good for the business, and if this trend persists, it could have negative implications. Therefore, it is necessary to boost sales in the 2nd half of the year by implementing additional sales promotions and marketing efforts. Targeting countries such as Poland, Finland, Portugal, Norway, Mexico, Denmark, Argentina, and Italy could significantly enhance sales performance and also Customers such as SAVEA, EARNSH, QUICK, to top five should be rewarded for their loyalty, while those with lower patronage should be encouraged to increase their purchases from the store.
 
-countries like Finland, Norway, Mexico, Denmark and Argentina as they remain in the bottom five in the first half of 2025. More attention should be given the listed countries in other to increase the sales in the countries.
-Beverages, Dairy products, Meat & Poultry and Confections categories had more purchase in the first half of 2015. The the products should be made more available in the second half of the year as it remains in the high demands from customers.
-There was a sharp increase in sales in April with about $134k, January, February and March also had a good sales but the sales suffers a huge decline in the month of May. More promotions and marketing strategies need to be roll out in the second half of the year to increase the sales.
-Gifts and recognition should be given to the top customers to reward their loyalty to the business and also customers with low patronage should be encourage  
+
