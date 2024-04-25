@@ -80,7 +80,7 @@ Product Performance:
 
 ![](myproject3.jpg)
     
-This indicates how well the products are doing and gives us insight into areas that might need improvement or adjustments to get better results.
+This indicates how well the products are doing and gives insight into areas that might need improvement or adjustments to get better results.
 
  
 
