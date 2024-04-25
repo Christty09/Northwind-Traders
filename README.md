@@ -91,3 +91,9 @@ Northwind traders have recorded a very low demand for certain products, such as 
 The drop in sales in May isn't good for the business, and if this trend persists, it could have negative implications. Therefore, it is necessary to boost sales in the 2nd half of the year by implementing additional sales promotions and marketing efforts. Targeting countries such as Poland, Finland, Portugal, Norway, Mexico, Denmark, Argentina, and Italy could significantly enhance sales performance and also Customers such as SAVEA, EARNSH, QUICK, to top five should be rewarded for their loyalty, while those with lower patronage should be encouraged to increase their purchases from the store.
 
 
+
+
+
+![](thanks.jpg)
+
+
