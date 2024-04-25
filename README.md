@@ -94,6 +94,11 @@ The drop in sales in May isn't good for the business, and if this trend persists
 
 
 
+
+
+
+
+
 ![](thanks.jpg)
 
 
